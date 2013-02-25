@@ -1,4 +1,4 @@
-TrinityCore PHP Class
+TrinityCore PHP Class\n
 You can use it to manage your TrinityCore Databases.
 Features:
   1.Creating account
